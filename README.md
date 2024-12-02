@@ -1,4 +1,4 @@
-# collaborative-task# Collaborative Coffee Shop Events Page
+# Collaborative Coffee Shop Events Page
 
 This project is a collaborative effort to create a multi-section web page showcasing a coffee shop's events and location. Each team member will take responsibility for one section: header, body, or footer. The project emphasizes teamwork and the use of Git and GitHub for version control, including creating pull requests and resolving merge conflicts.
 
@@ -93,8 +93,7 @@ The goal is to design and develop a webpage similar to the given design:
   ```bash
   git fetch origin
   git merge origin/master
-```
-
+  ```
 
 #### Resolve Conflicts
  **Open the Conflicting Files**
