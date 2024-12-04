@@ -36,4 +36,10 @@ body {
     color: #555;
     margin: 0;
   }
+.footer{
+    background-color: black;
+    color: white;
+    padding: 2rem;
+    text-align: center;
+}
   
