@@ -57,3 +57,9 @@ button:hover {
   background-color: #865904;
   color: white;
 }
+.footer{
+  background-color: black;
+  color: white;
+  padding: 2rem;
+  text-align: center;
+}
